@@ -1,0 +1,12 @@
+*.yml linguist-detectable=false
+*.map linguist-generated
+dist/* linguist-vendored
+
+*.gif binary
+
+*.htm linguist-vendored
+build/* linguist-vendored
+*.css linguist-detectable
+package-lock.json linguist-generated
+docs/* linguist-vendored
+* text=auto eol=lf
